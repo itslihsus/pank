@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592471895707",
+    "project_id": "e-book-d64cc",
+    "storage_bucket": "e-book-d64cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592471895707:android:fcf1784621af9b6451e03e",
+        "android_client_info": {
+          "package_name": "cosmos.comp.np"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsU14Ng7B8Hjl-TKsGid9Zaw_ZFbsd8Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
